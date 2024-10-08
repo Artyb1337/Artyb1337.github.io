@@ -15,14 +15,14 @@ website: www.github.com/Artyb1337
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  Artyb1337
+# twitter_username: facespics
+github_username: Artyb1337
 # stackoverflow_username: "00000001"
 # dribbble_username: ""
 # facebook_username: ""
 # flickr_username: ""
 # instagram_username: ""
-# linkedin_username: ""
+linkedin_username: https://www.linkedin.com/in/arty-baglai
 # # xing_username: ""
 # # pinterest_username: ""
 # youtube_username: ""
