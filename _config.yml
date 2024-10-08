@@ -6,28 +6,28 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
+name: Arty Baglai
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: abag@unc.edu
+website: www.github.com/Artyb1337
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  Artyb1337
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# dribbble_username: ""
+# facebook_username: ""
+# flickr_username: ""
+# instagram_username: ""
+# linkedin_username: ""
+# # xing_username: ""
+# # pinterest_username: ""
+# youtube_username: ""
+# # googleplus_username: ""
+# # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
