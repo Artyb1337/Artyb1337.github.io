@@ -16,3 +16,9 @@
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](google.com)
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/eJPTv2-000000?style=for-the-badge&logo=protonmail&logoColor=white" />
