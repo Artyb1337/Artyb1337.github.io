@@ -70,7 +70,8 @@ content:
       
   - title: Certificates
     layout: text
-    content: |
+    content: 
+      - layout: top-middle |
       <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
       <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/eJPTv2-000000?style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -103,10 +104,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my interests in networks and software engineering, some of my other hobbies are:
-      - Rock climbing
+      Alongside my interests in network security and cybersecurity, some of my other hobbies are:
+      - Weight Lifting
       - Gaming
-      - Knitting
+      - Jiu-Jitsu
 
       Look at this cool picture of my cat:  
       ![my cat](/images/percy.jpg "Percy!")
