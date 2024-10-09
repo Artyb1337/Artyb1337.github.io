@@ -70,18 +70,19 @@ content:
       
   - title: Certificates
     layout: text
-    content: 
-      - layout: top-middle |
-      <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/eJPTv2-000000?style=for-the-badge&logo=protonmail&logoColor=white" />
+    content: |
+      <div style="text-align: center;">
+        <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
+        <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
+        <img src="https://img.shields.io/badge/eJPTv2-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="eJPTv2 Badge" />
+      </div>
 
   # - title: Experience
   #   layout: list
   #   content:
   #     - layout: left
   #       title: The Boring Company
-  #       link: boringcompany.com
+  #       link: https://boringcompany.com
   #       sub_title: Senior Network System Administrator
   #       caption: November 2017 - Present
   #       quote: >
