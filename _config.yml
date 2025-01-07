@@ -48,9 +48,8 @@ linkedin_username: arty-baglai
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | 
-  Hi, my name's Arty and I'm a student at The University of North Carolina at Chapel Hill. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
-  I’ve worked on various projects that allowed me to build strong problem-solving, collaboration, and creative thinking skills.
-
+ 👋 Hi there! I'm Artiom Baglai, a passionate Computer Science student at UNC Chapel Hill with a deep interest in cybersecurity and data science.
+ 🔍 My current projects revolve around network security and exploring data analytics.  I'm excited on contributing to open-source projects that focus on improving cybersecurity measures and creating data-driven applications.
 content:
   - title: Projects
     layout: list
