@@ -22,7 +22,7 @@ github_username: "Artyb1337"
 # facebook_username: ""
 # flickr_username: ""
 # instagram_username: ""
-linkedin_username: "arty-baglai-5ab6b5232"
+linkedin_username: "arty-baglai"
 # # xing_username: ""
 # # pinterest_username: ""
 # youtube_username: ""
@@ -55,17 +55,16 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: https://github.com/Artyb1337/project
+        title: Vulnerability Management
+        link: https://github.com/Artyb1337/vulnerability-management-program
         # link_text: Project Website
         # additional_links:
         #   - title: ""
         #     icon: fab fa-github
         #     url: "github.com/"
         # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | 
-          I started this project as a way of learning <mark>React</mark> and it has since grown into a fully-fledged app. I have learned many skills through this and am very proud of having it in my portfolio. If you don't have a project as awesome as this, I would advise you to make one.
+        #  
+        description: In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
       
   - title: Certificates
     layout: text
