@@ -31,12 +31,18 @@ content:
       - layout: top-middle
         title: Vulnerability Management
         link: https://github.com/Artyb1337/vulnerability-management-program
-        description: In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
+        description: |
+          <div style="text-align: center;">
+            In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
+          </div>
 
       - layout: top-middle
         title: Azure Honeypot
         link: https://github.com/Artyb1337/Azure-Honeypot
-        description: This project involves setting up a honeypot in Azure to analyze security threats and log malicious activities.
+        description: |
+          <div style="text-align: center;">
+            This project involves setting up a honeypot in Azure to analyze security threats and log malicious activities.
+          </div>
 
   - title: Certificates
     layout: text
