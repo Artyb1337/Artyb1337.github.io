@@ -32,7 +32,7 @@ content:
         title: Vulnerability Management
         link: https://github.com/Artyb1337/vulnerability-management-program
         description: |
-          <div style="text-align: center;">
+          <div style="text-align: center; font-size: 18px;">
             In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
           </div>
 
@@ -40,7 +40,7 @@ content:
         title: Azure Honeypot
         link: https://github.com/Artyb1337/Azure-Honeypot
         description: |
-          <div style="text-align: center;">
+          <div style="text-align: center; font-size: 18px;">
             This project involves setting up a honeypot in Azure to analyze security threats and log malicious activities.
           </div>
 
