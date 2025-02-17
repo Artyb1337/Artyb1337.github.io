@@ -15,41 +15,15 @@ website: https://github.com/Artyb1337
 darkmode: true
 
 # Social links
-# twitter_username: ""
 github_username: "Artyb1337"
-# stackoverflow_username: "00000001"
-# dribbble_username: ""
-# facebook_username: ""
-# flickr_username: ""
-# instagram_username: ""
 linkedin_username: "arty-baglai"
-# # xing_username: ""
-# # pinterest_username: ""
-# youtube_username: ""
-# # googleplus_username: ""
-# # orcid_username: "0000-0000-0000-0000"
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: https://google.com
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.png
 about_content: | 
- 👋 Hi there! I'm Arty Baglai, a passionate Computer Science student at UNC Chapel Hill with a deep interest in cybersecurity and data science.
- 🔍 My current projects revolve around network security and exploring data analytics.  I'm excited on contributing to open-source projects that focus on improving cybersecurity measures and creating data-driven applications.
+  👋 Hi there! I'm Arty Baglai, a passionate Computer Science student at UNC Chapel Hill with a deep interest in cybersecurity and data science.
+  🔍 My current projects revolve around network security and exploring data analytics. I'm excited to contribute to open-source projects that focus on improving cybersecurity measures and creating data-driven applications.
+
 content:
   - title: Projects
     layout: list
@@ -57,27 +31,13 @@ content:
       - layout: top-middle
         title: Vulnerability Management
         link: https://github.com/Artyb1337/vulnerability-management-program
-        # link_text: Project Website
-        # additional_links:
-        #   - title: ""
-        #     icon: fab fa-github
-        #     url: "github.com/"
-        # quote: >
-        #  
         description: In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 
-     - layout: top-middle
-      title: Azure Honeypot
-      link: https://github.com/Artyb1337/Azure-Honeypot
-      # link_text: Project Website
-      # additional_links:
-      #   - title: ""
-      #     icon: fab fa-github
-      #     url: "github.com/"
-      # quote: >
-      #  
-      description: This project involves setting up a honeypot in Azure to analyze security threats and log malicious activities.
-      
+      - layout: top-middle
+        title: Azure Honeypot
+        link: https://github.com/Artyb1337/Azure-Honeypot
+        description: This project involves setting up a honeypot in Azure to analyze security threats and log malicious activities.
+
   - title: Certificates
     layout: text
     content: |
@@ -86,31 +46,6 @@ content:
         <img src="https://img.shields.io/badge/Google%20Cybersecurity-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
         <img src="https://img.shields.io/badge/eJPTv2-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="eJPTv2 Badge" />
       </div>
-
-  # - title: Experience
-  #   layout: list
-  #   content:
-  #     - layout: left
-  #       title: The Boring Company
-  #       link: https://boringcompany.com
-  #       sub_title: Senior Network System Administrator
-  #       caption: November 2017 - Present
-  #       quote: >
-  #         Solving 21st-century problems by digging holes and making game-changing products like the *not a flamethrower*.
-  #       description: |
-  #         Every company needs its networks properly administered, and The Boring Company is no exception. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  # - title: Education
-  #   layout: list
-  #   content:
-  #     - layout: left
-  #       title: Harvard University
-  #       caption: 2010 - 2013
-  #       sub_title: BSc Computer Science
-  #       quote: >
-  #         Established in 1636, Harvard is the oldest higher education institution in the United States and is widely regarded for its influence, reputation, and academic pedigree.
-  #       description: |
-  #         During my time at Harvard, I learned most of my key skills that have shaped my career, such as teamwork and meeting tight deadlines. I thoroughly enjoyed my time at university and gained a lot of insight into balancing work and life.
 
   - title: A Little More About Me
     layout: text
@@ -125,7 +60,6 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References available upon request
 
 # Build settings
 remote_theme: sproogen/resume-theme
