@@ -65,6 +65,18 @@ content:
         # quote: >
         #  
         description: In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
+
+      - layout: top-middle
+      title: Azure Honeypot
+      link: https://github.com/Artyb1337/Azure-Honeypot
+      # link_text: Project Website
+      # additional_links:
+      #   - title: ""
+      #     icon: fab fa-github
+      #     url: "github.com/"
+      # quote: >
+      #  
+      description: This project involves setting up a honeypot in Azure to analyze security threats and log malicious activities.
       
   - title: Certificates
     layout: text
